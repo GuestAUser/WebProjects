@@ -1,0 +1,117 @@
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+body {
+    animation: fadeIn 0.88s ease;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    padding-bottom: 50px;
+    /* TODO: make better padding for website */
+}
+
+.navbar {
+    background-color: #4CAF50;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #FFFFFF;
+}
+
+.nav-link:hover {
+    color: #C8E6C9;
+}
+
+.btn-primary {
+    background-color: #29692c;
+    border-color: #29692c; 
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #0f3111; 
+    border-color: #0f3111;
+}
+
+.hero {
+    position: relative;
+    padding: 100px 0;
+    background: url('nature.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.hero .container {
+    position: relative;
+    z-index: 1;
+}
+
+.hero h1,
+.hero p {
+    color: #dae6cb;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.products {
+    padding: 20px 0;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.price {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.contact-us,
+.contact-info {
+    padding: 50px 0;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #C8E6C9; 
+    color: #333333;
+    text-align: center;
+}
+
+.footer a {
+    color: #C8E6C9;
+}
+.footer p {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.bag-animation {
+    animation: fadeIn 0.6s;
+}
