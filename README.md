@@ -40,7 +40,7 @@
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Lk10" />
+![Experience Trophy](https://github-profile-trophy.vercel.app/?username=Lk10&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&timezone=Asia%2FKolkata)
 
 <h2 align="left">Connect with Me</h2>
 
