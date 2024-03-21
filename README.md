@@ -37,7 +37,9 @@
 <h3 align="left">Others:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
-<br><hr><br>
+
+<br><hr>
+
 ![Experience Trophy](https://github-profile-trophy.vercel.app/?username=Lk10&theme=onedark&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true&timezone=Asia%2FKolkata)
 
 <h2 align="left">Connect with Me</h2>
