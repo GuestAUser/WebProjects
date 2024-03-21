@@ -40,7 +40,7 @@
 
 <br><hr><br>
 
-![Experience Trophy](https://github-profile-trophy.vercel.app/?username=Lk10&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&timezone=Asia%2FKolkata)
+![Experience Trophy](https://github-profile-trophy.vercel.app/?username=Lk10&theme=onedark&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true&timezone=Asia%2FKolkata)
 
 <h2 align="left">Connect with Me</h2>
 
